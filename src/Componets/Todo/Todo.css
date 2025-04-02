@@ -1,0 +1,9 @@
+.todo{
+    width: 400px;
+    height: auto;
+    padding: 8px;
+    background-color: yellow;
+    color: black;
+    margin: 5px;
+    border: 2px solid black;
+}
